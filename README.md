@@ -4,8 +4,8 @@ My solutions to ROP Emporium challenges using **pwntools**.
 
 Here are some useful tools that I used to accomplish the challenges:
 *   python
-*   pwntools
-*   gdb-peda
+*   [pwntools](https://github.com/Gallopsled/pwntools)
+*   [gdb-peda](https://github.com/longld/peda)
 *   objdump
 *   readelf
 
