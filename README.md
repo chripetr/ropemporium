@@ -10,3 +10,5 @@ Here are some useful tools that I used to accomplish the challenges:
 *   readelf
 
 All of the exploits where tested with __aslr enabled__.
+
+**Note:** The *x86_shell.py* and *x64_shell.py* scripts spawn a shell while the *x86_exploit.py* and *x64_exploit.py* scripts print the flag.
