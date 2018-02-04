@@ -1,9 +1,8 @@
 ## Solutions to ROP Emporium challenges
 
-My solutions to ROP Emporium challenges using **pwntools**.
+My solutions to [ROP Emporium challenges](https://ropemporium.com/) using **pwntools**.
 
 Here are some useful tools that I used to accomplish the challenges:
-*   python
 *   [pwntools](https://github.com/Gallopsled/pwntools)
 *   [gdb-peda](https://github.com/longld/peda)
 *   objdump
